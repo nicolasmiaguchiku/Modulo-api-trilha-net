@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keila\\OneDrive\\\u00C1rea de Trabalho\\ModeloApiTeste\\ModeloApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3043EA-74C0-4BA8-A191-3880DBA9B628}|ModeloApi.csproj|c:\\users\\keila\\onedrive\\\u00E1rea de trabalho\\modeloapiteste\\modeloapi\\controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3043EA-74C0-4BA8-A191-3880DBA9B628}|ModeloApi.csproj|solutionrelative:controllers\\contatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F3043EA-74C0-4BA8-A191-3880DBA9B628}|ModeloApi.csproj|c:\\users\\keila\\onedrive\\\u00E1rea de trabalho\\modeloapiteste\\modeloapi\\entities\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F3043EA-74C0-4BA8-A191-3880DBA9B628}|ModeloApi.csproj|solutionrelative:entities\\contatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contatos.cs",
+              "DocumentMoniker": "C:\\Users\\keila\\OneDrive\\\u00C1rea de Trabalho\\ModeloApiTeste\\ModeloApi\\Entities\\Contatos.cs",
+              "RelativeDocumentMoniker": "Entities\\Contatos.cs",
+              "ToolTip": "C:\\Users\\keila\\OneDrive\\\u00C1rea de Trabalho\\ModeloApiTeste\\ModeloApi\\Entities\\Contatos.cs",
+              "RelativeToolTip": "Entities\\Contatos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:18:10.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContatosController.cs",
+              "DocumentMoniker": "C:\\Users\\keila\\OneDrive\\\u00C1rea de Trabalho\\ModeloApiTeste\\ModeloApi\\Controllers\\ContatosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContatosController.cs",
+              "ToolTip": "C:\\Users\\keila\\OneDrive\\\u00C1rea de Trabalho\\ModeloApiTeste\\ModeloApi\\Controllers\\ContatosController.cs",
+              "RelativeToolTip": "Controllers\\ContatosController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAACwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:16:30.126Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
